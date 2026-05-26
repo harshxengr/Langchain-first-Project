@@ -1,0 +1,21 @@
+{
+  "name": "langchain-first-project",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.1.48",
+    "@langchain/google": "^0.1.12",
+    "@langchain/google-genai": "^2.1.31",
+    "@langchain/groq": "^1.2.1",
+    "@langchain/openai": "^1.4.7",
+    "langchain": "^1.4.2",
+    "zod": "^4.4.3"
+  }
+}
