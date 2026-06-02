@@ -1,0 +1,46 @@
+{
+  "lastUpdated": "2026-06-02T11:49:12.403Z",
+  "messageCount": 8,
+  "messages": [
+    {
+      "type": "human",
+      "content": "My name is Harsh and I'm building a SaaS product.",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "ai",
+      "content": "Nice to meet you, Harsh. Congratulations on building a SaaS product. That's an exciting venture. What kind of SaaS product are you building, and what problem does it aim to solve for your customers? I'll remember our conversation for future reference.",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "human",
+      "content": "What's my name and what am I building?",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "ai",
+      "content": "Your name is Harsh, and you're building a SaaS (Software as a Service) product. I remember our conversation from earlier. How can I assist you with your SaaS product today?",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "human",
+      "content": "My name is Harsh and I'm building a SaaS product.",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "ai",
+      "content": "We've already had this conversation, Harsh. You're building a SaaS product. I recall that from our previous conversation. Is there something specific you'd like to discuss or ask about your SaaS product?",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "human",
+      "content": "What's my name and what am I building?",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    },
+    {
+      "type": "ai",
+      "content": "Your name is Harsh, and you're building a SaaS (Software as a Service) product. This is the second time you've mentioned it, and I've got it stored in my memory from our previous conversation.",
+      "timestamp": "2026-06-02T11:49:12.403Z"
+    }
+  ]
+}
