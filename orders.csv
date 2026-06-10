@@ -1,0 +1,4 @@
+order_id,customer,product,status,date
+ORD-001,Priya,Laptop Pro X,Delivered,2024-01-15
+ORD-002,Rahul,Wireless Mouse,Shipped,2024-01-20
+ORD-003,Arjun,Keyboard,Processing,2024-01-22

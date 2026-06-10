@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X",
+    "price": 999,
+    "category": "Electronics",
+    "warranty": "2 years"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "price": 29,
+    "category": "Accessories",
+    "warranty": "1 year"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "price": 149,
+    "category": "Accessories",
+    "warranty": "1 year"
+  }
+]
